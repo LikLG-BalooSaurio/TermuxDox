@@ -1,4 +1,4 @@
-# USB - DOXING (LITE)
+# Termux Doxing
 
 Hola! Este script esta hecho con Python y esta hecho para maquinas Termux.
 
