@@ -1,4 +1,4 @@
-python-nmap
-nmap
-platform
+socket
+ssl
+system
 colorama
